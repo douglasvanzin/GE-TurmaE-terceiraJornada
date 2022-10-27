@@ -56,3 +56,16 @@ p {
 	color: blue;
 	text-decoration: underline;
 }
+
+nav li{
+    display: inline;
+    margin-right: 5%;
+}
+
+nav a {
+    font-size: 22px;
+    color: azure;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+}
