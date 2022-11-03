@@ -6,16 +6,19 @@ body {
     margin-right: 20%; 
 }
 
-h1 {
+h1, h2 {
     color: #D3D3D3;
     text-align: center;
+    font-size: 25px;
+    padding-top: 7px;
+    padding-bottom: 7px;
 }
 h2 {
     color: #483D8B;
 }
 p {
     color:  #5F9EA0;
-
+    padding: 5px;
 }
 #imagem-principal {
     width: 10%;
@@ -25,10 +28,37 @@ p {
     position: absolute;
 }
 
+.lista {
+    font-size: 18px;
+    padding: 10px;
+    text-decoration-line: underline;
+}
+
 .itens {
 	color:  #5F9EA0;
 	text-decoration: underline;
 }
+
+nav {
+    position: absolute;
+    top: 110px;
+    top: 80px;
+    right: 150px;
+}
+
+nav li{
+    display: inline;
+    margin-right: 10px;
+}
+
+.logo{
+    width: 12%;
+}
+
+.menu {
+    padding: 10px;
+}
+
 .texto-principal {
     margin-right: 20%; 
 }
