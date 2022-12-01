@@ -24,7 +24,7 @@ p {
 #imagem-principal {
     width: 10%;
     margin-left: 80%;
-    border: 5px dotted salmon;
+    border: 5px dotted salmon;*
     float: left;
     position: absolute;
 }
