@@ -101,7 +101,7 @@ nav a {
     text-decoration: none;
 }
 
-nav a:hover {
+nav a:active {
     color: blue;
     font-size: 20px;
 }
