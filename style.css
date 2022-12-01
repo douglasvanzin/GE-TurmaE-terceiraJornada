@@ -101,6 +101,11 @@ nav a {
     text-decoration: none;
 }
 
+nav a:hover {
+    color: blue;
+    font-size: 20px;
+}
+
 footer {
     border: 5px solid red;
     margin-top: 15%;
