@@ -100,3 +100,18 @@ nav a {
     font-weight: bold;
     text-decoration: none;
 }
+
+footer {
+    border: 5px solid red;
+    margin-top: 15%;
+    text-align: center;
+    background-image: url(https://fastcorpbr.com/wp-content/uploads/2019/04/reforma-de-barbearia.jpg);
+}
+
+.logo2 {
+    width: 50px;
+}
+.textofinal {
+    font-size: 15px;
+    color: white;
+}
