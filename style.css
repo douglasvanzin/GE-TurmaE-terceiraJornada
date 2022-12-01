@@ -106,7 +106,10 @@ nav a:hover {
     font-size: 20px;
 }
 
-
+.lista li:first-child {
+    color: red;
+    font-size: 20px;
+}
 
 footer {
     border: 5px solid red;
