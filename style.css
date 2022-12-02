@@ -41,7 +41,7 @@ p {
 }
 
 nav {
-    position:relative;
+    position:static;
     top: 40px;
     right: 40px;
     border: 3px red solid;
